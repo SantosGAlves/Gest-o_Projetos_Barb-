@@ -51,8 +51,8 @@ O aplicativo entrega uma experiência completa — desde o cadastro do usuário 
 |--------|-----------|--------|
 | 🔐 **Autenticação** | Login e cadastro de usuários via Firebase Auth | ✅ Implementado |
 | 📅 **Agendamentos** | Marcação e gestão de cortes e serviços | ✅ Implementado |
-| 🛍️ **Catálogo de Produtos** | Vitrine de produtos da barbearia | ✅ Implementado |
-| 🏆 **Programa de Fidelidade** | Sistema de recompensas para clientes recorrentes | ✅ Implementado |
+| 🛍️ **Catálogo de Produtos** | Vitrine de produtos da barbearia | ✅ Em Desenvolvimento |
+| 🏆 **Programa de Fidelidade** | Sistema de recompensas para clientes recorrentes | ✅ Em Desenvolvimento |
 | 🌙 **Dark Mode** | Tema escuro padronizado em todo o app | ✅ Implementado |
 | 🚀 **Splash Screen** | Tela de inicialização nativa e polida | ✅ Implementado |
 
