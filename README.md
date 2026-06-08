@@ -319,7 +319,6 @@ Contribuições são bem-vindas! Para manter a qualidade do código, siga o flux
 ## 🗺️ Roadmap
 
 - [ ] Notificações push para lembretes de agendamento
-- [ ] Integração com pagamento in-app (PIX / cartão)
 - [ ] Painel administrativo para o barbeiro
 - [ ] Avaliações e reviews de serviços
 - [ ] Histórico completo de agendamentos
@@ -327,7 +326,5 @@ Contribuições são bem-vindas! Para manter a qualidade do código, siga o flux
 - [ ] Testes unitários e de integração
 
 ---
-
-Feito com ❤️ e Flutter
 
 </div>
